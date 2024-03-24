@@ -1,1 +1,7 @@
+djangorestframework
+langchain_community
+PyPDF2
+deep-translator
+chromadb
+
 gunicorn
