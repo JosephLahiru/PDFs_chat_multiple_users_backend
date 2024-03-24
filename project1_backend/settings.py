@@ -24,6 +24,7 @@ SECRET_KEY = 'django-insecure-t4xrmio1pwz2$-ylopo2_49am_his(fau0r#)*vnc)8r@@gc*3
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
+ALLOWED_HOSTS = ['*']
 SESSION_COOKIE_SECURE = False
 # settings.py
 # CSRF_COOKIE_SAMESITE = 'None'  # Allow CSRF cookie to be sent in cross-site requests
